@@ -1,1 +1,1 @@
-Git Fetch
+Git Pull
